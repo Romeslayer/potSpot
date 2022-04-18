@@ -31,4 +31,10 @@
     border-radius: 10px;    
 }
 
+.delete-pothole{
+    color:white;
+    background-color: red;
+    font-weight: bold;
+}
+
 
